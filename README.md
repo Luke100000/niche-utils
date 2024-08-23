@@ -1,0 +1,1 @@
+A collection of classes and functions too specific for an own repo.

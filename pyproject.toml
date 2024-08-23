@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "niche-utils"
 version = "0.1.0"
-description = ""
+description = "A collection of classes and functions too specific for an own repo."
 authors = ["Jonas Peche <jonas.peche@aon.at>"]
 readme = "README.md"
 
