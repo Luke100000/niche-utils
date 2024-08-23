@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "niche-utils"
+version = "0.1.0"
+description = ""
+authors = ["Jonas Peche <jonas.peche@aon.at>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.7"
+fasteners = "^0.19"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
