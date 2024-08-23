@@ -1,4 +1,4 @@
-from src.niche_utils import FilesQueue
+from niche_utils import FilesQueue
 
 
 def test_file_list():
